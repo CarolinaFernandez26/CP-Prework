@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/juKL69n"  ><a href="//imgur.com/a/juKL69n">video walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wXqpLFy.gifv' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
 
 GIF created with ez gif https://ezgif.com/video-to-gif.
 
