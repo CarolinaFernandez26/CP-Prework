@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/a/0XWQTgg.gif" width=250><br>
+<img src="https://imgur.com/a/0XWQTgg" width=250><br>
 
 GIF created with ez gif https://ezgif.com/video-to-gif.
 
